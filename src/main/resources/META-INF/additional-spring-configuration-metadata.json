@@ -1,0 +1,48 @@
+{
+  "properties": [
+    {
+      "name": "athena.defaultDb",
+      "type": "java.lang.String",
+      "description": "Description for athena.defaultDb."
+    },
+    {
+      "name": "athena.outputBucket",
+      "type": "java.lang.String",
+      "description": "Description for athena.outputBucket."
+    },
+    {
+      "name": "s3.accessKey",
+      "type": "java.lang.String",
+      "description": "Description for s3.accessKey."
+    },
+    {
+      "name": "s3.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for s3.secretKey."
+    },
+    {
+      "name": "s3.bucketName",
+      "type": "java.lang.String",
+      "description": "Description for s3.bucketName."
+    },
+    {
+      "name": "glue.iam",
+      "type": "java.lang.String",
+      "description": "Description for glue.iam."
+    },
+    {
+      "name": "glue.cron",
+      "type": "java.lang.String",
+      "description": "Description for glue.cron."
+    },
+    {
+      "name": "glue.databaseName",
+      "type": "java.lang.String",
+      "description": "Description for glue.databaseName."
+    },
+    {
+      "name": "credentials",
+      "type": "java.lang.String",
+      "description": "Description for credentials."
+    }
+  ] }
